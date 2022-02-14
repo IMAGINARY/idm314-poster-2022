@@ -1,0 +1,26 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+svg {
+  display: block;
+  border: 1px solid #333;
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+}
+
+#download {
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  margin: 1em auto;
+  text-align: center;
+  padding: 1em 1.5em;
+  background: #c557a0;
+  color: white;
+  text-decoration: none;
+  border-radius: 0.8em;
+  border: 1px solid #a93782;;
+}
